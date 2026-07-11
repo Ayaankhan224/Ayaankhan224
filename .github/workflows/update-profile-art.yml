@@ -1,6 +1,7 @@
 name: Update profile art
 
 on:
+  # Refresh the contribution graph once per day, plus allow manual runs.
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:

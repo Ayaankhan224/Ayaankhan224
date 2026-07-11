@@ -1,0 +1,13 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+
+# Local preview renders, not needed for the GitHub README.
+avi-ascii-static.*
+info-card.png
+contrib-heatmap.png
+
+# Original download bundle kept locally.
+scripts-20260711T053558Z-2-001/
+scripts-20260711T053558Z-2-001.zip

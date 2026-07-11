@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
@@ -20,6 +20,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wheat-six-ebo4wwgi5a.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayaan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaan-khan-702ba6410/)
 [![Instagram](https://img.shields.io/badge/Instagram-ayaannn.6-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayaannn.6)
+
+<br>
+
+<img src="./tech-stack.svg" width="860" alt="Tech stack" />
 
 <br>
 

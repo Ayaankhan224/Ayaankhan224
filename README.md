@@ -9,7 +9,22 @@
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+<td valign="top" width="490">
+<h3 align="left"><code>Ayaankhan224@github: ~$ whoami</code></h3>
+<p align="left">
+<b>Ayaan Khan</b><br>
+Full-stack developer focused on practical web apps, clean interfaces, and AI-assisted workflows.
+</p>
+<p align="left">
+<code>Focus</code> React, Node.js, APIs, databases, automation<br>
+<code>Building</code> portfolio projects, useful tools, and polished UI<br>
+<code>Learning</code> DSA, system design basics, and better product thinking<br>
+<code>Strength</code> turning rough ideas into working, presentable software
+</p>
+<p align="left">
+I like projects that feel simple on the surface but have solid engineering underneath: clear user flows, readable code, and enough automation to avoid repetitive work.
+</p>
+</td>
 </tr>
 </table>
 
@@ -28,7 +43,7 @@
 </p>
 <br>
 
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+<!-- contribution stats chart, refreshed daily by the workflow -->
+<img src="./stats-chart.svg" width="860" alt="GitHub contribution stats chart" />
 
 </div>

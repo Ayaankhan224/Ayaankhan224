@@ -1,7 +1,7 @@
 name: Update profile art
 
 on:
-  # Refresh the contribution graph once per day, plus allow manual runs.
+  # Refresh the contribution stats once per day, plus allow manual runs.
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
@@ -29,11 +29,11 @@ jobs:
         env:
           GH_PROFILE_USER: Ayaankhan224
 
-      - name: Render heatmap
-        run: python scripts/render_heatmap_svg.py
+      - name: Render stats chart
+        run: python scripts/render_stats_svg.py
 
-      - name: Commit updated graph
+      - name: Commit updated stats
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update contribution graph"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "Update contribution stats"
+          file_pattern: "data/contributions.json stats-chart.svg"

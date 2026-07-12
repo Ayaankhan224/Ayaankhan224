@@ -12,17 +12,11 @@
 <td valign="top" width="490">
 <h3 align="left"><code>Ayaankhan224@github: ~$ whoami</code></h3>
 <p align="left">
-<b>Ayaan Khan</b><br>
-Full-stack developer focused on practical web apps, clean interfaces, and AI-assisted workflows.
+<b>Hey, I'm Ayaan</b> <img src="./wave-hand.svg" width="24" alt="waving hand" /><br>
+I enjoy engineering software, from designing interfaces people love to building the systems that power them.
 </p>
 <p align="left">
-<code>Focus</code> React, Node.js, APIs, databases, automation<br>
-<code>Building</code> portfolio projects, useful tools, and polished UI<br>
-<code>Learning</code> DSA, system design basics, and better product thinking<br>
-<code>Strength</code> turning rough ideas into working, presentable software
-</p>
-<p align="left">
-I like projects that feel simple on the surface but have solid engineering underneath: clear user flows, readable code, and enough automation to avoid repetitive work.
+I'm drawn to both logic and creativity. I love solving technical problems just as much as I enjoy crafting beautiful visuals, smooth interactions, and memorable user experiences. Whether I'm building an AI tool, a developer utility, or a full-stack application, I strive to make it as elegant as it is functional.
 </p>
 </td>
 </tr>

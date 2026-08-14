@@ -1,22 +1,22 @@
 {
   "username": "Ayaankhan224",
-  "generated_at": "2026-08-13T05:10:33Z",
+  "generated_at": "2026-08-14T05:07:40Z",
   "range": {
     "start": "2025-08-10",
-    "end": "2026-08-13"
+    "end": "2026-08-14"
   },
-  "total_contributions": 272,
-  "active_days": 61,
-  "avg_per_active_day": 4.5,
+  "total_contributions": 226,
+  "active_days": 60,
+  "avg_per_active_day": 3.8,
   "current_streak": {
-    "length": 42,
+    "length": 44,
     "start": "2026-07-02",
-    "end": "2026-08-12"
+    "end": "2026-08-14"
   },
   "longest_streak": {
-    "length": 42,
+    "length": 44,
     "start": "2026-07-02",
-    "end": "2026-08-12"
+    "end": "2026-08-14"
   },
   "best_day": {
     "date": "2026-07-11",
@@ -61,7 +61,7 @@
     },
     {
       "month": "2026-05",
-      "total": 34
+      "total": 24
     },
     {
       "month": "2026-06",
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-07",
-      "total": 106
+      "total": 69
     },
     {
       "month": "2026-08",
-      "total": 81
+      "total": 82
     }
   ],
   "days": [
@@ -1211,15 +1211,15 @@
     },
     {
       "date": "2026-05-20",
-      "count": 4
+      "count": 0
     },
     {
       "date": "2026-05-21",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-05-22",
-      "count": 4
+      "count": 0
     },
     {
       "date": "2026-05-23",
@@ -1407,11 +1407,11 @@
     },
     {
       "date": "2026-07-08",
-      "count": 12
+      "count": 1
     },
     {
       "date": "2026-07-09",
-      "count": 6
+      "count": 4
     },
     {
       "date": "2026-07-10",
@@ -1435,23 +1435,23 @@
     },
     {
       "date": "2026-07-15",
-      "count": 10
+      "count": 3
     },
     {
       "date": "2026-07-16",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-07-17",
-      "count": 4
+      "count": 1
     },
     {
       "date": "2026-07-18",
-      "count": 4
+      "count": 1
     },
     {
       "date": "2026-07-19",
-      "count": 10
+      "count": 1
     },
     {
       "date": "2026-07-20",
@@ -1463,7 +1463,7 @@
     },
     {
       "date": "2026-07-22",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-07-23",
@@ -1507,11 +1507,11 @@
     },
     {
       "date": "2026-08-02",
-      "count": 3
+      "count": 1
     },
     {
       "date": "2026-08-03",
-      "count": 6
+      "count": 5
     },
     {
       "date": "2026-08-04",
@@ -1547,11 +1547,15 @@
     },
     {
       "date": "2026-08-12",
-      "count": 5
+      "count": 1
     },
     {
       "date": "2026-08-13",
-      "count": 0
+      "count": 5
+    },
+    {
+      "date": "2026-08-14",
+      "count": 3
     }
   ]
 }
